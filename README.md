@@ -23,3 +23,7 @@ This Security Reference Architecture (SRA) repository implements common security
 # How to Get Started 
 
 ![Network Architecture](img.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> ae53311 (detailed readme)
